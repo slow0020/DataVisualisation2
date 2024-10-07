@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "placeholder",
+  "width": 500,
+  "height": 400,
+  "projection": {"type": "mercator"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/AustraliaVisitorArrivalData.csv"
+  },
+  "transform": [{"filter": "datum.Year==selecta"}],
+  "params": [
+    {
+      "name": "selecta",
+      "value": [2019],
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2024,
+        "step": 1,
+        "name": "Select year:"
+      }
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {
+      "field": "Visitor Arrival",
+      "type": "quantitative",
+      "title": "Short-Term Visitors in Australia"
+    },
+    "y": {"field": "State", "type": "nominal", "title": "State/Territory"},
+    "color": {"field": "State", "type": "nominal"},
+    "tooltip": [
+      {"field": "State", "type": "nominal"},
+      {"field": "Visitor Arrival", "type": "quantitative"},
+      {"field": "Year", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
