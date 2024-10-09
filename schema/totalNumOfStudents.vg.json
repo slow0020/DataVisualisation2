@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "International Student in Australia by State",
+  "width": 500,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudentTotalVisas.csv"
+  },
+  "transform": [{"filter": "datum.Year==selectYear"}],
+  "params": [
+    {
+      "name": "selectYear",
+      "value": 2024,
+      "bind": {
+        "input": "range",
+        "min": 2005,
+        "max": 2024,
+        "step": 1,
+        "name": "Select year:"
+      }
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {"field": "State", "type": "nominal", "title": "State/Territory"},
+    "y": {
+      "field": "Total Student Visas",
+      "type": "quantitative",
+      "title": "Number of International Students"
+    },
+    "color": {"field": "State", "type": "nominal"},
+    "tooltip": [
+      {"field": "State", "type": "nominal"},
+      {"field": "Year", "type": "quantitative"},
+      {"field": "Total Student Visas", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}

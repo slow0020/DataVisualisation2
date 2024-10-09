@@ -1,0 +1,55 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Distribution of Student Visas of States",
+  "width": 500,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudentDataSpecificVisas.csv"
+  },
+  "params": [
+    {
+      "name": "selectYear",
+      "value": 2024,
+      "bind": {
+        "input": "range",
+        "min": 2005,
+        "max": 2024,
+        "step": 1,
+        "name": "Select year:"
+      }
+    },
+    {
+      "name": "State_selection",
+      "value": "Victoria",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australian Capital Territory",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year==selectYear"},
+    {"filter": "State_selection == null || datum.State == State_selection"}
+  ],
+  "mark": {"type": "arc"},
+  "encoding": {
+    "theta": {"field": "Value", "type": "quantitative"},
+    "color": {"field": "TemporaryStudentVisaTYpe", "type": "nominal"},
+    "tooltip": [
+      {"field": "State", "type": "nominal"},
+      {"field": "TemporaryStudentVisaTYpe", "type": "nominal"},
+      {"field": "Year", "type": "quantitative"},
+      {"field": "Value", "type": "quantitative", "title": "Number of Visas"}
+    ]
+  },
+  "config": {}
+}
