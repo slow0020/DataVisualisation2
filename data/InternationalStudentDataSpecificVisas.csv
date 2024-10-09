@@ -1,0 +1,961 @@
+﻿State,Year,TemporaryStudentVisaTYpe,Value
+Australian Capital Territory,2005,Higher Education,2920
+Australian Capital Territory,2005,Vocational Educ. & Training,400
+Australian Capital Territory,2005,Schools,690
+Australian Capital Territory,2005,Independent ELICOS(f),110
+Australian Capital Territory,2005,Postgraduate Research,980
+Australian Capital Territory,2005,Other Students,950
+Australian Capital Territory,2006,Higher Education,3190
+Australian Capital Territory,2006,Vocational Educ. & Training,310
+Australian Capital Territory,2006,Schools,690
+Australian Capital Territory,2006,Independent ELICOS(f),150
+Australian Capital Territory,2006,Postgraduate Research,660
+Australian Capital Territory,2006,Other Students,1040
+Australian Capital Territory,2007,Higher Education,3720
+Australian Capital Territory,2007,Vocational Educ. & Training,520
+Australian Capital Territory,2007,Schools,900
+Australian Capital Territory,2007,Independent ELICOS(f),260
+Australian Capital Territory,2007,Postgraduate Research,700
+Australian Capital Territory,2007,Other Students,1280
+Australian Capital Territory,2008,Higher Education,4810
+Australian Capital Territory,2008,Vocational Educ. & Training,630
+Australian Capital Territory,2008,Schools,760
+Australian Capital Territory,2008,Independent ELICOS(f),230
+Australian Capital Territory,2008,Postgraduate Research,630
+Australian Capital Territory,2008,Other Students,1400
+Australian Capital Territory,2009,Higher Education,6330
+Australian Capital Territory,2009,Vocational Educ. & Training,950
+Australian Capital Territory,2009,Schools,680
+Australian Capital Territory,2009,Independent ELICOS(f),250
+Australian Capital Territory,2009,Postgraduate Research,900
+Australian Capital Territory,2009,Other Students,1260
+Australian Capital Territory,2010,Higher Education,6940
+Australian Capital Territory,2010,Vocational Educ. & Training,810
+Australian Capital Territory,2010,Schools,780
+Australian Capital Territory,2010,Independent ELICOS(f),290
+Australian Capital Territory,2010,Postgraduate Research,1070
+Australian Capital Territory,2010,Other Students,1420
+Australian Capital Territory,2011,Higher Education,6930
+Australian Capital Territory,2011,Vocational Educ. & Training,700
+Australian Capital Territory,2011,Schools,650
+Australian Capital Territory,2011,Independent ELICOS(f),250
+Australian Capital Territory,2011,Postgraduate Research,1240
+Australian Capital Territory,2011,Other Students,1270
+Australian Capital Territory,2012,Higher Education,8070
+Australian Capital Territory,2012,Vocational Educ. & Training,730
+Australian Capital Territory,2012,Schools,710
+Australian Capital Territory,2012,Independent ELICOS(f),260
+Australian Capital Territory,2012,Postgraduate Research,1310
+Australian Capital Territory,2012,Other Students,1520
+Australian Capital Territory,2013,Higher Education,7870
+Australian Capital Territory,2013,Vocational Educ. & Training,580
+Australian Capital Territory,2013,Schools,670
+Australian Capital Territory,2013,Independent ELICOS(f),170
+Australian Capital Territory,2013,Postgraduate Research,1500
+Australian Capital Territory,2013,Other Students,1890
+Australian Capital Territory,2014,Higher Education,8200
+Australian Capital Territory,2014,Vocational Educ. & Training,690
+Australian Capital Territory,2014,Schools,760
+Australian Capital Territory,2014,Independent ELICOS(f),140
+Australian Capital Territory,2014,Postgraduate Research,1430
+Australian Capital Territory,2014,Other Students,1820
+Australian Capital Territory,2015,Higher Education,9440
+Australian Capital Territory,2015,Vocational Educ. & Training,640
+Australian Capital Territory,2015,Schools,830
+Australian Capital Territory,2015,Independent ELICOS(f),200
+Australian Capital Territory,2015,Postgraduate Research,1320
+Australian Capital Territory,2015,Other Students,2140
+Australian Capital Territory,2016,Higher Education,11260
+Australian Capital Territory,2016,Vocational Educ. & Training,760
+Australian Capital Territory,2016,Schools,890
+Australian Capital Territory,2016,Independent ELICOS(f),210
+Australian Capital Territory,2016,Postgraduate Research,1270
+Australian Capital Territory,2016,Other Students,1320
+Australian Capital Territory,2017,Higher Education,14840
+Australian Capital Territory,2017,Vocational Educ. & Training,970
+Australian Capital Territory,2017,Schools,1100
+Australian Capital Territory,2017,Independent ELICOS(f),140
+Australian Capital Territory,2017,Postgraduate Research,1430
+Australian Capital Territory,2017,Other Students,1950
+Australian Capital Territory,2018,Higher Education,18120
+Australian Capital Territory,2018,Vocational Educ. & Training,1120
+Australian Capital Territory,2018,Schools,1320
+Australian Capital Territory,2018,Independent ELICOS(f),280
+Australian Capital Territory,2018,Postgraduate Research,1770
+Australian Capital Territory,2018,Other Students,1930
+Australian Capital Territory,2019,Higher Education,17290
+Australian Capital Territory,2019,Vocational Educ. & Training,1340
+Australian Capital Territory,2019,Schools,1000
+Australian Capital Territory,2019,Independent ELICOS(f),170
+Australian Capital Territory,2019,Postgraduate Research,1780
+Australian Capital Territory,2019,Other Students,2020
+Australian Capital Territory,2020,Higher Education,4850
+Australian Capital Territory,2020,Vocational Educ. & Training,490
+Australian Capital Territory,2020,Schools,240
+Australian Capital Territory,2020,Independent ELICOS(f),60
+Australian Capital Territory,2020,Postgraduate Research,550
+Australian Capital Territory,2020,Other Students,680
+Australian Capital Territory,2021,Higher Education,630
+Australian Capital Territory,2021,Vocational Educ. & Training,130
+Australian Capital Territory,2021,Schools,10
+Australian Capital Territory,2021,Independent ELICOS(f),10
+Australian Capital Territory,2021,Postgraduate Research,120
+Australian Capital Territory,2021,Other Students,220
+Australian Capital Territory,2022,Higher Education,6850
+Australian Capital Territory,2022,Vocational Educ. & Training,1200
+Australian Capital Territory,2022,Schools,150
+Australian Capital Territory,2022,Independent ELICOS(f),130
+Australian Capital Territory,2022,Postgraduate Research,1030
+Australian Capital Territory,2022,Other Students,900
+Australian Capital Territory,2023,Higher Education,14070
+Australian Capital Territory,2023,Vocational Educ. & Training,1430
+Australian Capital Territory,2023,Schools,240
+Australian Capital Territory,2023,Independent ELICOS(f),270
+Australian Capital Territory,2023,Postgraduate Research,1530
+Australian Capital Territory,2023,Other Students,1350
+Australian Capital Territory,2024,Higher Education,12570
+Australian Capital Territory,2024,Vocational Educ. & Training,700
+Australian Capital Territory,2024,Schools,320
+Australian Capital Territory,2024,Independent ELICOS(f),70
+Australian Capital Territory,2024,Postgraduate Research,1080
+Australian Capital Territory,2024,Other Students,1160
+New South Wales,2005,Higher Education,52000
+New South Wales,2005,Vocational Educ. & Training,14250
+New South Wales,2005,Schools,11530
+New South Wales,2005,Independent ELICOS(f),9480
+New South Wales,2005,Postgraduate Research,7840
+New South Wales,2005,Other Students,11230
+New South Wales,2006,Higher Education,60980
+New South Wales,2006,Vocational Educ. & Training,17440
+New South Wales,2006,Schools,11500
+New South Wales,2006,Independent ELICOS(f),11620
+New South Wales,2006,Postgraduate Research,3810
+New South Wales,2006,Other Students,11080
+New South Wales,2007,Higher Education,67900
+New South Wales,2007,Vocational Educ. & Training,26390
+New South Wales,2007,Schools,13360
+New South Wales,2007,Independent ELICOS(f),11990
+New South Wales,2007,Postgraduate Research,3600
+New South Wales,2007,Other Students,10750
+New South Wales,2008,Higher Education,78430
+New South Wales,2008,Vocational Educ. & Training,36690
+New South Wales,2008,Schools,12470
+New South Wales,2008,Independent ELICOS(f),13340
+New South Wales,2008,Postgraduate Research,4210
+New South Wales,2008,Other Students,11260
+New South Wales,2009,Higher Education,86580
+New South Wales,2009,Vocational Educ. & Training,41760
+New South Wales,2009,Schools,12080
+New South Wales,2009,Independent ELICOS(f),14620
+New South Wales,2009,Postgraduate Research,4960
+New South Wales,2009,Other Students,11620
+New South Wales,2010,Higher Education,90160
+New South Wales,2010,Vocational Educ. & Training,32510
+New South Wales,2010,Schools,10250
+New South Wales,2010,Independent ELICOS(f),11940
+New South Wales,2010,Postgraduate Research,5880
+New South Wales,2010,Other Students,10940
+New South Wales,2011,Higher Education,88360
+New South Wales,2011,Vocational Educ. & Training,29350
+New South Wales,2011,Schools,9680
+New South Wales,2011,Independent ELICOS(f),10480
+New South Wales,2011,Postgraduate Research,6870
+New South Wales,2011,Other Students,10590
+New South Wales,2012,Higher Education,88990
+New South Wales,2012,Vocational Educ. & Training,25690
+New South Wales,2012,Schools,8610
+New South Wales,2012,Independent ELICOS(f),9850
+New South Wales,2012,Postgraduate Research,7140
+New South Wales,2012,Other Students,10540
+New South Wales,2013,Higher Education,98780
+New South Wales,2013,Vocational Educ. & Training,23950
+New South Wales,2013,Schools,7550
+New South Wales,2013,Independent ELICOS(f),10150
+New South Wales,2013,Postgraduate Research,7840
+New South Wales,2013,Other Students,12170
+New South Wales,2014,Higher Education,107490
+New South Wales,2014,Vocational Educ. & Training,26040
+New South Wales,2014,Schools,7800
+New South Wales,2014,Independent ELICOS(f),10880
+New South Wales,2014,Postgraduate Research,8090
+New South Wales,2014,Other Students,13530
+New South Wales,2015,Higher Education,117950
+New South Wales,2015,Vocational Educ. & Training,31470
+New South Wales,2015,Schools,9030
+New South Wales,2015,Independent ELICOS(f),12420
+New South Wales,2015,Postgraduate Research,8470
+New South Wales,2015,Other Students,13250
+New South Wales,2016,Higher Education,138110
+New South Wales,2016,Vocational Educ. & Training,39920
+New South Wales,2016,Schools,10270
+New South Wales,2016,Independent ELICOS(f),14800
+New South Wales,2016,Postgraduate Research,9170
+New South Wales,2016,Other Students,14120
+New South Wales,2017,Higher Education,164350
+New South Wales,2017,Vocational Educ. & Training,46160
+New South Wales,2017,Schools,11270
+New South Wales,2017,Independent ELICOS(f),17300
+New South Wales,2017,Postgraduate Research,9580
+New South Wales,2017,Other Students,15730
+New South Wales,2018,Higher Education,183750
+New South Wales,2018,Vocational Educ. & Training,58000
+New South Wales,2018,Schools,10560
+New South Wales,2018,Independent ELICOS(f),16110
+New South Wales,2018,Postgraduate Research,10540
+New South Wales,2018,Other Students,15690
+New South Wales,2019,Higher Education,190590
+New South Wales,2019,Vocational Educ. & Training,57980
+New South Wales,2019,Schools,9790
+New South Wales,2019,Independent ELICOS(f),15660
+New South Wales,2019,Postgraduate Research,10910
+New South Wales,2019,Other Students,15590
+New South Wales,2020,Higher Education,58850
+New South Wales,2020,Vocational Educ. & Training,16180
+New South Wales,2020,Schools,3680
+New South Wales,2020,Independent ELICOS(f),3620
+New South Wales,2020,Postgraduate Research,3550
+New South Wales,2020,Other Students,5950
+New South Wales,2021,Higher Education,10830
+New South Wales,2021,Vocational Educ. & Training,2900
+New South Wales,2021,Schools,120
+New South Wales,2021,Independent ELICOS(f),150
+New South Wales,2021,Postgraduate Research,1280
+New South Wales,2021,Other Students,100
+New South Wales,2022,Higher Education,92000
+New South Wales,2022,Vocational Educ. & Training,40550
+New South Wales,2022,Schools,2030
+New South Wales,2022,Independent ELICOS(f),14740
+New South Wales,2022,Postgraduate Research,6710
+New South Wales,2022,Other Students,5350
+New South Wales,2023,Higher Education,166390
+New South Wales,2023,Vocational Educ. & Training,56530
+New South Wales,2023,Schools,4400
+New South Wales,2023,Independent ELICOS(f),22120
+New South Wales,2023,Postgraduate Research,9180
+New South Wales,2023,Other Students,12060
+New South Wales,2024,Higher Education,144160
+New South Wales,2024,Vocational Educ. & Training,30440
+New South Wales,2024,Schools,4380
+New South Wales,2024,Independent ELICOS(f),7360
+New South Wales,2024,Postgraduate Research,7200
+New South Wales,2024,Other Students,9360
+Northern Territory,2005,Higher Education,180
+Northern Territory,2005,Vocational Educ. & Training,70
+Northern Territory,2005,Schools,200
+Northern Territory,2005,Independent ELICOS(f),10
+Northern Territory,2005,Postgraduate Research,20
+Northern Territory,2005,Other Students,60
+Northern Territory,2006,Higher Education,320
+Northern Territory,2006,Vocational Educ. & Training,40
+Northern Territory,2006,Schools,200
+Northern Territory,2006,Independent ELICOS(f),60
+Northern Territory,2006,Postgraduate Research,10
+Northern Territory,2006,Other Students,40
+Northern Territory,2007,Higher Education,470
+Northern Territory,2007,Vocational Educ. & Training,110
+Northern Territory,2007,Schools,160
+Northern Territory,2007,Independent ELICOS(f),20
+Northern Territory,2007,Postgraduate Research,20
+Northern Territory,2007,Other Students,40
+Northern Territory,2008,Higher Education,830
+Northern Territory,2008,Vocational Educ. & Training,220
+Northern Territory,2008,Schools,200
+Northern Territory,2008,Independent ELICOS(f),70
+Northern Territory,2008,Postgraduate Research,100
+Northern Territory,2008,Other Students,170
+Northern Territory,2009,Higher Education,960
+Northern Territory,2009,Vocational Educ. & Training,290
+Northern Territory,2009,Schools,170
+Northern Territory,2009,Independent ELICOS(f),90
+Northern Territory,2009,Postgraduate Research,50
+Northern Territory,2009,Other Students,290
+Northern Territory,2010,Higher Education,740
+Northern Territory,2010,Vocational Educ. & Training,260
+Northern Territory,2010,Schools,170
+Northern Territory,2010,Independent ELICOS(f),80
+Northern Territory,2010,Postgraduate Research,100
+Northern Territory,2010,Other Students,180
+Northern Territory,2011,Higher Education,1440
+Northern Territory,2011,Vocational Educ. & Training,480
+Northern Territory,2011,Schools,160
+Northern Territory,2011,Independent ELICOS(f),110
+Northern Territory,2011,Postgraduate Research,130
+Northern Territory,2011,Other Students,260
+Northern Territory,2012,Higher Education,1500
+Northern Territory,2012,Vocational Educ. & Training,330
+Northern Territory,2012,Schools,160
+Northern Territory,2012,Independent ELICOS(f),70
+Northern Territory,2012,Postgraduate Research,190
+Northern Territory,2012,Other Students,200
+Northern Territory,2013,Higher Education,1930
+Northern Territory,2013,Vocational Educ. & Training,500
+Northern Territory,2013,Schools,210
+Northern Territory,2013,Independent ELICOS(f),70
+Northern Territory,2013,Postgraduate Research,240
+Northern Territory,2013,Other Students,410
+Northern Territory,2014,Higher Education,1860
+Northern Territory,2014,Vocational Educ. & Training,450
+Northern Territory,2014,Schools,310
+Northern Territory,2014,Independent ELICOS(f),130
+Northern Territory,2014,Postgraduate Research,360
+Northern Territory,2014,Other Students,470
+Northern Territory,2015,Higher Education,1950
+Northern Territory,2015,Vocational Educ. & Training,550
+Northern Territory,2015,Schools,200
+Northern Territory,2015,Independent ELICOS(f),80
+Northern Territory,2015,Postgraduate Research,240
+Northern Territory,2015,Other Students,530
+Northern Territory,2016,Higher Education,2070
+Northern Territory,2016,Vocational Educ. & Training,600
+Northern Territory,2016,Schools,210
+Northern Territory,2016,Independent ELICOS(f),110
+Northern Territory,2016,Postgraduate Research,180
+Northern Territory,2016,Other Students,510
+Northern Territory,2017,Higher Education,1710
+Northern Territory,2017,Vocational Educ. & Training,450
+Northern Territory,2017,Schools,280
+Northern Territory,2017,Independent ELICOS(f),90
+Northern Territory,2017,Postgraduate Research,220
+Northern Territory,2017,Other Students,350
+Northern Territory,2018,Higher Education,1350
+Northern Territory,2018,Vocational Educ. & Training,390
+Northern Territory,2018,Schools,240
+Northern Territory,2018,Independent ELICOS(f),50
+Northern Territory,2018,Postgraduate Research,190
+Northern Territory,2018,Other Students,130
+Northern Territory,2019,Higher Education,1540
+Northern Territory,2019,Vocational Educ. & Training,590
+Northern Territory,2019,Schools,200
+Northern Territory,2019,Independent ELICOS(f),120
+Northern Territory,2019,Postgraduate Research,140
+Northern Territory,2019,Other Students,130
+Northern Territory,2020,Higher Education,640
+Northern Territory,2020,Vocational Educ. & Training,270
+Northern Territory,2020,Schools,70
+Northern Territory,2020,Independent ELICOS(f),10
+Northern Territory,2020,Postgraduate Research,50
+Northern Territory,2020,Other Students,40
+Northern Territory,2021,Higher Education,90
+Northern Territory,2021,Vocational Educ. & Training,40
+Northern Territory,2021,Schools,0
+Northern Territory,2021,Independent ELICOS(f),0
+Northern Territory,2021,Postgraduate Research,10
+Northern Territory,2021,Other Students,40
+Northern Territory,2022,Higher Education,1110
+Northern Territory,2022,Vocational Educ. & Training,470
+Northern Territory,2022,Schools,50
+Northern Territory,2022,Independent ELICOS(f),40
+Northern Territory,2022,Postgraduate Research,100
+Northern Territory,2022,Other Students,50
+Northern Territory,2023,Higher Education,2520
+Northern Territory,2023,Vocational Educ. & Training,650
+Northern Territory,2023,Schools,80
+Northern Territory,2023,Independent ELICOS(f),110
+Northern Territory,2023,Postgraduate Research,180
+Northern Territory,2023,Other Students,60
+Northern Territory,2024,Higher Education,1230
+Northern Territory,2024,Vocational Educ. & Training,340
+Northern Territory,2024,Schools,60
+Northern Territory,2024,Independent ELICOS(f),40
+Northern Territory,2024,Postgraduate Research,100
+Northern Territory,2024,Other Students,10
+Queensland,2005,Higher Education,23230
+Queensland,2005,Vocational Educ. & Training,3800
+Queensland,2005,Schools,6950
+Queensland,2005,Independent ELICOS(f),7520
+Queensland,2005,Postgraduate Research,3370
+Queensland,2005,Other Students,7160
+Queensland,2006,Higher Education,26210
+Queensland,2006,Vocational Educ. & Training,4380
+Queensland,2006,Schools,6970
+Queensland,2006,Independent ELICOS(f),8790
+Queensland,2006,Postgraduate Research,1850
+Queensland,2006,Other Students,7720
+Queensland,2007,Higher Education,30500
+Queensland,2007,Vocational Educ. & Training,6170
+Queensland,2007,Schools,7680
+Queensland,2007,Independent ELICOS(f),8610
+Queensland,2007,Postgraduate Research,2100
+Queensland,2007,Other Students,7400
+Queensland,2008,Higher Education,37820
+Queensland,2008,Vocational Educ. & Training,9680
+Queensland,2008,Schools,7900
+Queensland,2008,Independent ELICOS(f),9150
+Queensland,2008,Postgraduate Research,2770
+Queensland,2008,Other Students,7360
+Queensland,2009,Higher Education,41190
+Queensland,2009,Vocational Educ. & Training,17050
+Queensland,2009,Schools,8220
+Queensland,2009,Independent ELICOS(f),10130
+Queensland,2009,Postgraduate Research,3550
+Queensland,2009,Other Students,8400
+Queensland,2010,Higher Education,43660
+Queensland,2010,Vocational Educ. & Training,10430
+Queensland,2010,Schools,8580
+Queensland,2010,Independent ELICOS(f),8020
+Queensland,2010,Postgraduate Research,3720
+Queensland,2010,Other Students,7440
+Queensland,2011,Higher Education,42440
+Queensland,2011,Vocational Educ. & Training,11020
+Queensland,2011,Schools,7310
+Queensland,2011,Independent ELICOS(f),7170
+Queensland,2011,Postgraduate Research,4190
+Queensland,2011,Other Students,6710
+Queensland,2012,Higher Education,41720
+Queensland,2012,Vocational Educ. & Training,10630
+Queensland,2012,Schools,6700
+Queensland,2012,Independent ELICOS(f),7660
+Queensland,2012,Postgraduate Research,5030
+Queensland,2012,Other Students,6950
+Queensland,2013,Higher Education,44370
+Queensland,2013,Vocational Educ. & Training,9240
+Queensland,2013,Schools,6440
+Queensland,2013,Independent ELICOS(f),8300
+Queensland,2013,Postgraduate Research,5380
+Queensland,2013,Other Students,9580
+Queensland,2014,Higher Education,47480
+Queensland,2014,Vocational Educ. & Training,9330
+Queensland,2014,Schools,6570
+Queensland,2014,Independent ELICOS(f),8430
+Queensland,2014,Postgraduate Research,5480
+Queensland,2014,Other Students,9770
+Queensland,2015,Higher Education,46870
+Queensland,2015,Vocational Educ. & Training,11940
+Queensland,2015,Schools,7790
+Queensland,2015,Independent ELICOS(f),8910
+Queensland,2015,Postgraduate Research,5750
+Queensland,2015,Other Students,11240
+Queensland,2016,Higher Education,50880
+Queensland,2016,Vocational Educ. & Training,14070
+Queensland,2016,Schools,8730
+Queensland,2016,Independent ELICOS(f),9750
+Queensland,2016,Postgraduate Research,5830
+Queensland,2016,Other Students,9660
+Queensland,2017,Higher Education,57330
+Queensland,2017,Vocational Educ. & Training,16740
+Queensland,2017,Schools,9530
+Queensland,2017,Independent ELICOS(f),11690
+Queensland,2017,Postgraduate Research,5440
+Queensland,2017,Other Students,9440
+Queensland,2018,Higher Education,66580
+Queensland,2018,Vocational Educ. & Training,19460
+Queensland,2018,Schools,10530
+Queensland,2018,Independent ELICOS(f),11350
+Queensland,2018,Postgraduate Research,6010
+Queensland,2018,Other Students,9850
+Queensland,2019,Higher Education,71040
+Queensland,2019,Vocational Educ. & Training,21500
+Queensland,2019,Schools,10330
+Queensland,2019,Independent ELICOS(f),12600
+Queensland,2019,Postgraduate Research,6330
+Queensland,2019,Other Students,8490
+Queensland,2020,Higher Education,23830
+Queensland,2020,Vocational Educ. & Training,6350
+Queensland,2020,Schools,3510
+Queensland,2020,Independent ELICOS(f),3080
+Queensland,2020,Postgraduate Research,1960
+Queensland,2020,Other Students,2870
+Queensland,2021,Higher Education,960
+Queensland,2021,Vocational Educ. & Training,280
+Queensland,2021,Schools,40
+Queensland,2021,Independent ELICOS(f),10
+Queensland,2021,Postgraduate Research,340
+Queensland,2021,Other Students,20
+Queensland,2022,Higher Education,29890
+Queensland,2022,Vocational Educ. & Training,13420
+Queensland,2022,Schools,2470
+Queensland,2022,Independent ELICOS(f),11780
+Queensland,2022,Postgraduate Research,3430
+Queensland,2022,Other Students,3480
+Queensland,2023,Higher Education,55910
+Queensland,2023,Vocational Educ. & Training,20970
+Queensland,2023,Schools,5480
+Queensland,2023,Independent ELICOS(f),16960
+Queensland,2023,Postgraduate Research,5320
+Queensland,2023,Other Students,6720
+Queensland,2024,Higher Education,47220
+Queensland,2024,Vocational Educ. & Training,11540
+Queensland,2024,Schools,5970
+Queensland,2024,Independent ELICOS(f),6000
+Queensland,2024,Postgraduate Research,3960
+Queensland,2024,Other Students,5270
+South Australia,2005,Higher Education,8570
+South Australia,2005,Vocational Educ. & Training,840
+South Australia,2005,Schools,2570
+South Australia,2005,Independent ELICOS(f),480
+South Australia,2005,Postgraduate Research,1160
+South Australia,2005,Other Students,1470
+South Australia,2006,Higher Education,10750
+South Australia,2006,Vocational Educ. & Training,780
+South Australia,2006,Schools,2880
+South Australia,2006,Independent ELICOS(f),460
+South Australia,2006,Postgraduate Research,780
+South Australia,2006,Other Students,1590
+South Australia,2007,Higher Education,12060
+South Australia,2007,Vocational Educ. & Training,1110
+South Australia,2007,Schools,3330
+South Australia,2007,Independent ELICOS(f),630
+South Australia,2007,Postgraduate Research,790
+South Australia,2007,Other Students,1750
+South Australia,2008,Higher Education,15440
+South Australia,2008,Vocational Educ. & Training,2280
+South Australia,2008,Schools,3070
+South Australia,2008,Independent ELICOS(f),820
+South Australia,2008,Postgraduate Research,820
+South Australia,2008,Other Students,1530
+South Australia,2009,Higher Education,17110
+South Australia,2009,Vocational Educ. & Training,4330
+South Australia,2009,Schools,3650
+South Australia,2009,Independent ELICOS(f),990
+South Australia,2009,Postgraduate Research,960
+South Australia,2009,Other Students,1560
+South Australia,2010,Higher Education,17100
+South Australia,2010,Vocational Educ. & Training,2420
+South Australia,2010,Schools,3080
+South Australia,2010,Independent ELICOS(f),930
+South Australia,2010,Postgraduate Research,1200
+South Australia,2010,Other Students,1400
+South Australia,2011,Higher Education,16280
+South Australia,2011,Vocational Educ. & Training,2700
+South Australia,2011,Schools,2660
+South Australia,2011,Independent ELICOS(f),670
+South Australia,2011,Postgraduate Research,1520
+South Australia,2011,Other Students,1500
+South Australia,2012,Higher Education,15640
+South Australia,2012,Vocational Educ. & Training,2890
+South Australia,2012,Schools,2270
+South Australia,2012,Independent ELICOS(f),820
+South Australia,2012,Postgraduate Research,1640
+South Australia,2012,Other Students,1840
+South Australia,2013,Higher Education,16790
+South Australia,2013,Vocational Educ. & Training,2270
+South Australia,2013,Schools,2190
+South Australia,2013,Independent ELICOS(f),640
+South Australia,2013,Postgraduate Research,1750
+South Australia,2013,Other Students,2550
+South Australia,2014,Higher Education,18890
+South Australia,2014,Vocational Educ. & Training,2240
+South Australia,2014,Schools,2200
+South Australia,2014,Independent ELICOS(f),700
+South Australia,2014,Postgraduate Research,1810
+South Australia,2014,Other Students,3090
+South Australia,2015,Higher Education,19370
+South Australia,2015,Vocational Educ. & Training,2350
+South Australia,2015,Schools,2910
+South Australia,2015,Independent ELICOS(f),840
+South Australia,2015,Postgraduate Research,1670
+South Australia,2015,Other Students,3190
+South Australia,2016,Higher Education,21210
+South Australia,2016,Vocational Educ. & Training,2600
+South Australia,2016,Schools,3340
+South Australia,2016,Independent ELICOS(f),760
+South Australia,2016,Postgraduate Research,1530
+South Australia,2016,Other Students,3000
+South Australia,2017,Higher Education,23520
+South Australia,2017,Vocational Educ. & Training,2320
+South Australia,2017,Schools,3750
+South Australia,2017,Independent ELICOS(f),680
+South Australia,2017,Postgraduate Research,1420
+South Australia,2017,Other Students,2260
+South Australia,2018,Higher Education,26150
+South Australia,2018,Vocational Educ. & Training,2550
+South Australia,2018,Schools,4340
+South Australia,2018,Independent ELICOS(f),760
+South Australia,2018,Postgraduate Research,1530
+South Australia,2018,Other Students,1920
+South Australia,2019,Higher Education,29200
+South Australia,2019,Vocational Educ. & Training,3210
+South Australia,2019,Schools,4570
+South Australia,2019,Independent ELICOS(f),1160
+South Australia,2019,Postgraduate Research,1400
+South Australia,2019,Other Students,1680
+South Australia,2020,Higher Education,11340
+South Australia,2020,Vocational Educ. & Training,1020
+South Australia,2020,Schools,1580
+South Australia,2020,Independent ELICOS(f),290
+South Australia,2020,Postgraduate Research,510
+South Australia,2020,Other Students,670
+South Australia,2021,Higher Education,940
+South Australia,2021,Vocational Educ. & Training,180
+South Australia,2021,Schools,40
+South Australia,2021,Independent ELICOS(f),10
+South Australia,2021,Postgraduate Research,140
+South Australia,2021,Other Students,0
+South Australia,2022,Higher Education,15690
+South Australia,2022,Vocational Educ. & Training,3320
+South Australia,2022,Schools,1070
+South Australia,2022,Independent ELICOS(f),1690
+South Australia,2022,Postgraduate Research,1090
+South Australia,2022,Other Students,660
+South Australia,2023,Higher Education,25190
+South Australia,2023,Vocational Educ. & Training,5000
+South Australia,2023,Schools,2000
+South Australia,2023,Independent ELICOS(f),2440
+South Australia,2023,Postgraduate Research,1560
+South Australia,2023,Other Students,900
+South Australia,2024,Higher Education,20330
+South Australia,2024,Vocational Educ. & Training,2980
+South Australia,2024,Schools,2030
+South Australia,2024,Independent ELICOS(f),800
+South Australia,2024,Postgraduate Research,1300
+South Australia,2024,Other Students,950
+Tasmania,2005,Higher Education,1660
+Tasmania,2005,Vocational Educ. & Training,140
+Tasmania,2005,Schools,420
+Tasmania,2005,Independent ELICOS(f),160
+Tasmania,2005,Postgraduate Research,190
+Tasmania,2005,Other Students,210
+Tasmania,2006,Higher Education,1910
+Tasmania,2006,Vocational Educ. & Training,210
+Tasmania,2006,Schools,390
+Tasmania,2006,Independent ELICOS(f),170
+Tasmania,2006,Postgraduate Research,170
+Tasmania,2006,Other Students,230
+Tasmania,2007,Higher Education,2050
+Tasmania,2007,Vocational Educ. & Training,180
+Tasmania,2007,Schools,430
+Tasmania,2007,Independent ELICOS(f),150
+Tasmania,2007,Postgraduate Research,180
+Tasmania,2007,Other Students,270
+Tasmania,2008,Higher Education,2320
+Tasmania,2008,Vocational Educ. & Training,350
+Tasmania,2008,Schools,590
+Tasmania,2008,Independent ELICOS(f),180
+Tasmania,2008,Postgraduate Research,230
+Tasmania,2008,Other Students,280
+Tasmania,2009,Higher Education,2780
+Tasmania,2009,Vocational Educ. & Training,370
+Tasmania,2009,Schools,370
+Tasmania,2009,Independent ELICOS(f),150
+Tasmania,2009,Postgraduate Research,250
+Tasmania,2009,Other Students,340
+Tasmania,2010,Higher Education,2770
+Tasmania,2010,Vocational Educ. & Training,270
+Tasmania,2010,Schools,460
+Tasmania,2010,Independent ELICOS(f),120
+Tasmania,2010,Postgraduate Research,300
+Tasmania,2010,Other Students,330
+Tasmania,2011,Higher Education,2610
+Tasmania,2011,Vocational Educ. & Training,210
+Tasmania,2011,Schools,290
+Tasmania,2011,Independent ELICOS(f),140
+Tasmania,2011,Postgraduate Research,280
+Tasmania,2011,Other Students,340
+Tasmania,2012,Higher Education,2640
+Tasmania,2012,Vocational Educ. & Training,190
+Tasmania,2012,Schools,270
+Tasmania,2012,Independent ELICOS(f),90
+Tasmania,2012,Postgraduate Research,330
+Tasmania,2012,Other Students,290
+Tasmania,2013,Higher Education,2830
+Tasmania,2013,Vocational Educ. & Training,210
+Tasmania,2013,Schools,290
+Tasmania,2013,Independent ELICOS(f),30
+Tasmania,2013,Postgraduate Research,350
+Tasmania,2013,Other Students,210
+Tasmania,2014,Higher Education,3060
+Tasmania,2014,Vocational Educ. & Training,160
+Tasmania,2014,Schools,290
+Tasmania,2014,Independent ELICOS(f),40
+Tasmania,2014,Postgraduate Research,390
+Tasmania,2014,Other Students,420
+Tasmania,2015,Higher Education,3350
+Tasmania,2015,Vocational Educ. & Training,160
+Tasmania,2015,Schools,370
+Tasmania,2015,Independent ELICOS(f),50
+Tasmania,2015,Postgraduate Research,530
+Tasmania,2015,Other Students,410
+Tasmania,2016,Higher Education,3400
+Tasmania,2016,Vocational Educ. & Training,120
+Tasmania,2016,Schools,510
+Tasmania,2016,Independent ELICOS(f),70
+Tasmania,2016,Postgraduate Research,600
+Tasmania,2016,Other Students,330
+Tasmania,2017,Higher Education,4740
+Tasmania,2017,Vocational Educ. & Training,350
+Tasmania,2017,Schools,420
+Tasmania,2017,Independent ELICOS(f),120
+Tasmania,2017,Postgraduate Research,660
+Tasmania,2017,Other Students,490
+Tasmania,2018,Higher Education,5920
+Tasmania,2018,Vocational Educ. & Training,650
+Tasmania,2018,Schools,560
+Tasmania,2018,Independent ELICOS(f),40
+Tasmania,2018,Postgraduate Research,740
+Tasmania,2018,Other Students,370
+Tasmania,2019,Higher Education,6430
+Tasmania,2019,Vocational Educ. & Training,1290
+Tasmania,2019,Schools,580
+Tasmania,2019,Independent ELICOS(f),60
+Tasmania,2019,Postgraduate Research,790
+Tasmania,2019,Other Students,270
+Tasmania,2020,Higher Education,2300
+Tasmania,2020,Vocational Educ. & Training,450
+Tasmania,2020,Schools,260
+Tasmania,2020,Independent ELICOS(f),20
+Tasmania,2020,Postgraduate Research,230
+Tasmania,2020,Other Students,120
+Tasmania,2021,Higher Education,170
+Tasmania,2021,Vocational Educ. & Training,40
+Tasmania,2021,Schools,10
+Tasmania,2021,Independent ELICOS(f),0
+Tasmania,2021,Postgraduate Research,20
+Tasmania,2021,Other Students,0
+Tasmania,2022,Higher Education,1930
+Tasmania,2022,Vocational Educ. & Training,1220
+Tasmania,2022,Schools,130
+Tasmania,2022,Independent ELICOS(f),40
+Tasmania,2022,Postgraduate Research,360
+Tasmania,2022,Other Students,90
+Tasmania,2023,Higher Education,3050
+Tasmania,2023,Vocational Educ. & Training,1330
+Tasmania,2023,Schools,310
+Tasmania,2023,Independent ELICOS(f),80
+Tasmania,2023,Postgraduate Research,560
+Tasmania,2023,Other Students,200
+Tasmania,2024,Higher Education,1900
+Tasmania,2024,Vocational Educ. & Training,380
+Tasmania,2024,Schools,360
+Tasmania,2024,Independent ELICOS(f),30
+Tasmania,2024,Postgraduate Research,300
+Tasmania,2024,Other Students,230
+Victoria,2005,Higher Education,48700
+Victoria,2005,Vocational Educ. & Training,7620
+Victoria,2005,Schools,11760
+Victoria,2005,Independent ELICOS(f),3220
+Victoria,2005,Postgraduate Research,5650
+Victoria,2005,Other Students,7560
+Victoria,2006,Higher Education,58600
+Victoria,2006,Vocational Educ. & Training,10390
+Victoria,2006,Schools,11960
+Victoria,2006,Independent ELICOS(f),4030
+Victoria,2006,Postgraduate Research,3340
+Victoria,2006,Other Students,7430
+Victoria,2007,Higher Education,69300
+Victoria,2007,Vocational Educ. & Training,14730
+Victoria,2007,Schools,13160
+Victoria,2007,Independent ELICOS(f),4160
+Victoria,2007,Postgraduate Research,3230
+Victoria,2007,Other Students,7630
+Victoria,2008,Higher Education,81230
+Victoria,2008,Vocational Educ. & Training,23940
+Victoria,2008,Schools,12690
+Victoria,2008,Independent ELICOS(f),4350
+Victoria,2008,Postgraduate Research,3910
+Victoria,2008,Other Students,8080
+Victoria,2009,Higher Education,88330
+Victoria,2009,Vocational Educ. & Training,34790
+Victoria,2009,Schools,13210
+Victoria,2009,Independent ELICOS(f),5440
+Victoria,2009,Postgraduate Research,4950
+Victoria,2009,Other Students,8190
+Victoria,2010,Higher Education,88910
+Victoria,2010,Vocational Educ. & Training,21020
+Victoria,2010,Schools,11820
+Victoria,2010,Independent ELICOS(f),4770
+Victoria,2010,Postgraduate Research,5830
+Victoria,2010,Other Students,8240
+Victoria,2011,Higher Education,88190
+Victoria,2011,Vocational Educ. & Training,20190
+Victoria,2011,Schools,10640
+Victoria,2011,Independent ELICOS(f),4460
+Victoria,2011,Postgraduate Research,6280
+Victoria,2011,Other Students,8580
+Victoria,2012,Higher Education,86230
+Victoria,2012,Vocational Educ. & Training,18070
+Victoria,2012,Schools,10510
+Victoria,2012,Independent ELICOS(f),4360
+Victoria,2012,Postgraduate Research,6500
+Victoria,2012,Other Students,8970
+Victoria,2013,Higher Education,90480
+Victoria,2013,Vocational Educ. & Training,15900
+Victoria,2013,Schools,9350
+Victoria,2013,Independent ELICOS(f),5140
+Victoria,2013,Postgraduate Research,6750
+Victoria,2013,Other Students,10230
+Victoria,2014,Higher Education,104400
+Victoria,2014,Vocational Educ. & Training,15420
+Victoria,2014,Schools,9850
+Victoria,2014,Independent ELICOS(f),6350
+Victoria,2014,Postgraduate Research,7440
+Victoria,2014,Other Students,11450
+Victoria,2015,Higher Education,117610
+Victoria,2015,Vocational Educ. & Training,16350
+Victoria,2015,Schools,11740
+Victoria,2015,Independent ELICOS(f),7450
+Victoria,2015,Postgraduate Research,7860
+Victoria,2015,Other Students,12020
+Victoria,2016,Higher Education,140660
+Victoria,2016,Vocational Educ. & Training,18990
+Victoria,2016,Schools,14350
+Victoria,2016,Independent ELICOS(f),8870
+Victoria,2016,Postgraduate Research,7920
+Victoria,2016,Other Students,11770
+Victoria,2017,Higher Education,163430
+Victoria,2017,Vocational Educ. & Training,23990
+Victoria,2017,Schools,16570
+Victoria,2017,Independent ELICOS(f),10010
+Victoria,2017,Postgraduate Research,8480
+Victoria,2017,Other Students,10740
+Victoria,2018,Higher Education,190490
+Victoria,2018,Vocational Educ. & Training,29430
+Victoria,2018,Schools,17700
+Victoria,2018,Independent ELICOS(f),9910
+Victoria,2018,Postgraduate Research,9330
+Victoria,2018,Other Students,10620
+Victoria,2019,Higher Education,204420
+Victoria,2019,Vocational Educ. & Training,33310
+Victoria,2019,Schools,16810
+Victoria,2019,Independent ELICOS(f),11370
+Victoria,2019,Postgraduate Research,9890
+Victoria,2019,Other Students,9910
+Victoria,2020,Higher Education,69780
+Victoria,2020,Vocational Educ. & Training,9890
+Victoria,2020,Schools,6010
+Victoria,2020,Independent ELICOS(f),2960
+Victoria,2020,Postgraduate Research,3270
+Victoria,2020,Other Students,3660
+Victoria,2021,Higher Education,9600
+Victoria,2021,Vocational Educ. & Training,1610
+Victoria,2021,Schools,170
+Victoria,2021,Independent ELICOS(f),100
+Victoria,2021,Postgraduate Research,1040
+Victoria,2021,Other Students,10
+Victoria,2022,Higher Education,83090
+Victoria,2022,Vocational Educ. & Training,22240
+Victoria,2022,Schools,2900
+Victoria,2022,Independent ELICOS(f),12210
+Victoria,2022,Postgraduate Research,6830
+Victoria,2022,Other Students,4470
+Victoria,2023,Higher Education,147190
+Victoria,2023,Vocational Educ. & Training,35940
+Victoria,2023,Schools,6270
+Victoria,2023,Independent ELICOS(f),16530
+Victoria,2023,Postgraduate Research,9860
+Victoria,2023,Other Students,8650
+Victoria,2024,Higher Education,136110
+Victoria,2024,Vocational Educ. & Training,20010
+Victoria,2024,Schools,6830
+Victoria,2024,Independent ELICOS(f),5170
+Victoria,2024,Postgraduate Research,7420
+Victoria,2024,Other Students,7650
+Western Australia,2005,Higher Education,
+Western Australia,2005,Vocational Educ. & Training,
+Western Australia,2005,Schools,
+Western Australia,2005,Independent ELICOS(f),
+Western Australia,2005,Postgraduate Research,
+Western Australia,2005,Other Students,
+Western Australia,2006,Higher Education,0
+Western Australia,2006,Vocational Educ. & Training,
+Western Australia,2006,Schools,
+Western Australia,2006,Independent ELICOS(f),
+Western Australia,2006,Postgraduate Research,
+Western Australia,2006,Other Students,
+Western Australia,2007,Higher Education,0
+Western Australia,2007,Vocational Educ. & Training,
+Western Australia,2007,Schools,
+Western Australia,2007,Independent ELICOS(f),
+Western Australia,2007,Postgraduate Research,
+Western Australia,2007,Other Students,
+Western Australia,2008,Higher Education,0
+Western Australia,2008,Vocational Educ. & Training,
+Western Australia,2008,Schools,
+Western Australia,2008,Independent ELICOS(f),
+Western Australia,2008,Postgraduate Research,
+Western Australia,2008,Other Students,
+Western Australia,2009,Higher Education,0
+Western Australia,2009,Vocational Educ. & Training,
+Western Australia,2009,Schools,
+Western Australia,2009,Independent ELICOS(f),
+Western Australia,2009,Postgraduate Research,
+Western Australia,2009,Other Students,
+Western Australia,2010,Higher Education,0
+Western Australia,2010,Vocational Educ. & Training,
+Western Australia,2010,Schools,
+Western Australia,2010,Independent ELICOS(f),
+Western Australia,2010,Postgraduate Research,
+Western Australia,2010,Other Students,
+Western Australia,2011,Higher Education,0
+Western Australia,2011,Vocational Educ. & Training,
+Western Australia,2011,Schools,
+Western Australia,2011,Independent ELICOS(f),
+Western Australia,2011,Postgraduate Research,
+Western Australia,2011,Other Students,
+Western Australia,2012,Higher Education,0
+Western Australia,2012,Vocational Educ. & Training,
+Western Australia,2012,Schools,
+Western Australia,2012,Independent ELICOS(f),
+Western Australia,2012,Postgraduate Research,
+Western Australia,2012,Other Students,
+Western Australia,2013,Higher Education,0
+Western Australia,2013,Vocational Educ. & Training,
+Western Australia,2013,Schools,
+Western Australia,2013,Independent ELICOS(f),
+Western Australia,2013,Postgraduate Research,
+Western Australia,2013,Other Students,
+Western Australia,2014,Higher Education,0
+Western Australia,2014,Vocational Educ. & Training,
+Western Australia,2014,Schools,
+Western Australia,2014,Independent ELICOS(f),
+Western Australia,2014,Postgraduate Research,
+Western Australia,2014,Other Students,
+Western Australia,2015,Higher Education,0
+Western Australia,2015,Vocational Educ. & Training,
+Western Australia,2015,Schools,
+Western Australia,2015,Independent ELICOS(f),
+Western Australia,2015,Postgraduate Research,
+Western Australia,2015,Other Students,
+Western Australia,2016,Higher Education,0
+Western Australia,2016,Vocational Educ. & Training,
+Western Australia,2016,Schools,
+Western Australia,2016,Independent ELICOS(f),
+Western Australia,2016,Postgraduate Research,
+Western Australia,2016,Other Students,
+Western Australia,2017,Higher Education,0
+Western Australia,2017,Vocational Educ. & Training,
+Western Australia,2017,Schools,
+Western Australia,2017,Independent ELICOS(f),
+Western Australia,2017,Postgraduate Research,
+Western Australia,2017,Other Students,
+Western Australia,2018,Higher Education,0
+Western Australia,2018,Vocational Educ. & Training,
+Western Australia,2018,Schools,
+Western Australia,2018,Independent ELICOS(f),
+Western Australia,2018,Postgraduate Research,
+Western Australia,2018,Other Students,
+Western Australia,2019,Higher Education,0
+Western Australia,2019,Vocational Educ. & Training,
+Western Australia,2019,Schools,
+Western Australia,2019,Independent ELICOS(f),
+Western Australia,2019,Postgraduate Research,
+Western Australia,2019,Other Students,
+Western Australia,2020,Higher Education,0
+Western Australia,2020,Vocational Educ. & Training,
+Western Australia,2020,Schools,
+Western Australia,2020,Independent ELICOS(f),
+Western Australia,2020,Postgraduate Research,
+Western Australia,2020,Other Students,
+Western Australia,2021,Higher Education,0
+Western Australia,2021,Vocational Educ. & Training,
+Western Australia,2021,Schools,
+Western Australia,2021,Independent ELICOS(f),
+Western Australia,2021,Postgraduate Research,
+Western Australia,2021,Other Students,
+Western Australia,2022,Higher Education,0
+Western Australia,2022,Vocational Educ. & Training,
+Western Australia,2022,Schools,
+Western Australia,2022,Independent ELICOS(f),
+Western Australia,2022,Postgraduate Research,
+Western Australia,2022,Other Students,
+Western Australia,2023,Higher Education,0
+Western Australia,2023,Vocational Educ. & Training,
+Western Australia,2023,Schools,
+Western Australia,2023,Independent ELICOS(f),
+Western Australia,2023,Postgraduate Research,
+Western Australia,2023,Other Students,
+Western Australia,2024,Higher Education,0
+Western Australia,2024,Vocational Educ. & Training,
+Western Australia,2024,Schools,
+Western Australia,2024,Independent ELICOS(f),
+Western Australia,2024,Postgraduate Research,
+Western Australia,2024,Other Students,
