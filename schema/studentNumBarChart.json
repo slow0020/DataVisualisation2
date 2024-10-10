@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "International Student in Australia by State",
   "width": 500,
   "height": 400,
   "data": {
