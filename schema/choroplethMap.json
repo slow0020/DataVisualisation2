@@ -7,25 +7,13 @@
     "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/STE_2021_AUST_GDA2020.json",
     "format": {"type": "topojson", "feature": "STE_2021_AUST_GDA2020"}
   },
-  "params": [
-    {
-      "name": "Year_selection",
-      "value": 2024,
-      "bind": {
-        "input": "range",
-        "min": 2005,
-        "max": 2024,
-        "step": 1,
-        "name": "Year: "
-      }
-    }
-  ],
+
   "transform": [
     {
       "lookup": "properties.STE_NAME21",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudentTotalVisas.csv"
+          "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudent.csv"
         },
         "key": "State",
         "fields": ["Total Student Visas"]
