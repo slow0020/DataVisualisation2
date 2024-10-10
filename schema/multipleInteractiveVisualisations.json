@@ -1,0 +1,109 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudentDatasetSpread.csv"
+  },
+  "params": [
+    {
+      "name": "State_selection",
+      "title": "State Selection",
+      "value": "Victoria",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Australian Capital Territory",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ]
+      }
+    }
+  ],
+  "vconcat": [
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "param": "brush",
+            "title": "Type of Visa",
+            "field": "TemporaryStudentVisaType",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "Higher Educ.",
+                "Vocational Educ. & Training",
+                "Schools",
+                "Independent ELICOS(f)",
+                "Postgraduate Research",
+                "Other Students"
+              ]
+            }
+          },
+          "value": "lightgray"
+        },
+        "size": {
+          "title": "Number of Students",
+          "field": "Value",
+          "type": "quantitative"
+        },
+        "x": {
+          "field": "Month",
+          "timeUnit": "binnedutcyearmonthdate",
+          "title": "Month"
+        },
+        "y": {
+          "title": "Number of Students",
+          "field": "Value",
+          "type": "quantitative"
+        }
+      },
+      "width": 600,
+      "height": 300,
+      "mark": "point",
+      "params": [
+        {"name": "brush", "select": {"type": "interval", "encodings": ["x"]}}
+      ],
+      "transform": [
+        {"filter": {"param": "click"}},
+        {"filter": "State_selection == null || datum.State == State_selection"}
+      ]
+    },
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "param": "click",
+            "field": "TemporaryStudentVisaType",
+            "scale": {
+              "domain": [
+                "Higher Educ.",
+                "Vocational Educ. & Training",
+                "Schools",
+                "Independent ELICOS(f)",
+                "Postgraduate Research",
+                "Other Students"
+              ]
+            }
+          },
+          "value": "lightgray"
+        },
+        "x": {"aggregate": "average", "field": "Value"},
+        "y": {
+          "title": "Type of Student Visa",
+          "field": "TemporaryStudentVisaType"
+        }
+      },
+      "width": 600,
+      "mark": "bar",
+      "params": [
+        {"name": "click", "select": {"type": "point", "encodings": ["color"]}}
+      ],
+      "transform": [{"filter": {"param": "brush"}}]
+    }
+  ],
+  "config": {}
+}
