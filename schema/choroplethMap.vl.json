@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "International Visitors in Australia",
   "width": 500,
   "height": 400,
   "projection": {"type": "mercator"},
