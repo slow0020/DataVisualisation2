@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 350,
   "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudentDataSpecificVisas.csv"
@@ -42,7 +42,30 @@
   "mark": {"type": "arc"},
   "encoding": {
     "theta": {"field": "Value", "type": "quantitative"},
-    "color": {"field": "TemporaryStudentVisaTYpe", "type": "nominal"},
+    "color": {
+      "field": "TemporaryStudentVisaTYpe", 
+      "type": "nominal",
+      "scale":{
+        "domain": [
+        "Higher Education",
+        "Independent ELICOS(f)",
+        "Other Students",
+        "Postgraduate Research",
+        "Schools",
+        "Vocational Educ. & Training"
+      ],
+      "range":[
+        "#1f77b4",
+        "#5dade2",
+        "#f7dc6f",
+        "#52be80",
+        "#ec7063",
+        "#f39c12"
+        
+      ]
+      }
+
+      },
     "tooltip": [
       {"field": "State", "type": "nominal"},
       {"field": "TemporaryStudentVisaTYpe", "type": "nominal"},
