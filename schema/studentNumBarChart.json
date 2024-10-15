@@ -31,7 +31,7 @@
     "tooltip": [
       {"field": "State", "type": "nominal"},
       {"field": "Year", "type": "quantitative"},
-      {"field": "Total Student Visas", "type": "quantitative"}
+      {"field": "Total Student Visas", "type": "quantitative", "format":","}
     ]
   },
   "config": {}
