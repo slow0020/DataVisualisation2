@@ -70,7 +70,7 @@
       {"field": "State", "type": "nominal"},
       {"field": "TemporaryStudentVisaTYpe", "type": "nominal"},
       {"field": "Year", "type": "quantitative"},
-      {"field": "Value", "type": "quantitative", "title": "Number of Visas"}
+      {"field": "Value", "type": "quantitative", "title": "Number of Visas", "feature":","}
     ]
   },
   "config": {}
