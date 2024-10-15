@@ -13,22 +13,25 @@
       "lookup": "properties.STE_NAME21",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationalStudent.csv"
+          "url": "https://raw.githubusercontent.com/slow0020/DataVisualisation2/refs/heads/main/data/InternationStudentsInAustralia2024.csv"
         },
         "key": "State",
-        "fields": ["Total Student Visas"]
+        "fields": ["Total Student"]
       }
     }
   ],
   "mark": {"type": "geoshape"},
   "encoding": {
     "color": {
-      "field": "Total Student Visas",
+      "field": "Total Student",
       "type": "quantitative"
     },
     "tooltip": [
       {"field": "properties.STE_NAME21", "type": "nominal", "title": "State"},
-      {"field": "Total Student Visas", "type": "quantitative"}
+      {
+        "field": "Total Student", 
+        "type": "quantitative", 
+        "format":","}
     ]
   },
   "config": {}
